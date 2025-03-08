@@ -1,4 +1,4 @@
-### Installation and Usage
+### Start
 ```bash
 python src/train.py
 ```
