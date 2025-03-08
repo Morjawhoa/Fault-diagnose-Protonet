@@ -1,4 +1,4 @@
-### Start
+### Train
 ```bash
 python src/train.py
 ```
